@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FNbRVJn1kIGjwIoc+MHG3Hp+OfSn2LLiNwzPTtsgnf7ktyGwB5x1foRS/RrIpfKc8Q8FzaemWUUzm9dHx24rLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cornd\\Documents\\GitHub\\survival-game-backend\\Survival Game Backend Server\\Survival Game Backend Server\\Survival Game Backend Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cornd\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\3.1.7\\microsoft.netcore.app.runtime.win-x86.3.1.7.nupkg.sha512",
+    "C:\\Users\\cornd\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\3.1.7\\microsoft.windowsdesktop.app.runtime.win-x86.3.1.7.nupkg.sha512",
+    "C:\\Users\\cornd\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\3.1.7\\microsoft.aspnetcore.app.runtime.win-x86.3.1.7.nupkg.sha512"
+  ],
+  "logs": []
+}

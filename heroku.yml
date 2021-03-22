@@ -2,4 +2,4 @@ build:
   docker:
     web: Survival Game Backend Server/Survival Game Backend Server/bin/Release/netcoreapp3.1/publish/Dockerfile
 run:
-  web: dotnet run Survival Game Backend Server\Survival Game Backend Server\bin\Release\netcoreapp3.1\publish\Survival Game Backend Server.exe
+  web: dotnet run Survival Game Backend Server\Survival Game Backend Server\bin\Release\netcoreapp3.1\publish\Survival Game Backend Server.dll
