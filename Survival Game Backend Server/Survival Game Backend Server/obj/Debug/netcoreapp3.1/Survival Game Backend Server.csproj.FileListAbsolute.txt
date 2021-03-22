@@ -1,0 +1,13 @@
+C:\Users\cornd\source\repos\Survival Game Backend Server\Survival Game Backend Server\obj\Debug\netcoreapp3.1\Survival Game Backend Server.csprojAssemblyReference.cache
+C:\Users\cornd\source\repos\Survival Game Backend Server\Survival Game Backend Server\obj\Debug\netcoreapp3.1\Survival Game Backend Server.AssemblyInfoInputs.cache
+C:\Users\cornd\source\repos\Survival Game Backend Server\Survival Game Backend Server\obj\Debug\netcoreapp3.1\Survival Game Backend Server.AssemblyInfo.cs
+C:\Users\cornd\source\repos\Survival Game Backend Server\Survival Game Backend Server\obj\Debug\netcoreapp3.1\Survival Game Backend Server.csproj.CoreCompileInputs.cache
+C:\Users\cornd\source\repos\Survival Game Backend Server\Survival Game Backend Server\bin\Debug\netcoreapp3.1\Survival Game Backend Server.exe
+C:\Users\cornd\source\repos\Survival Game Backend Server\Survival Game Backend Server\bin\Debug\netcoreapp3.1\Survival Game Backend Server.deps.json
+C:\Users\cornd\source\repos\Survival Game Backend Server\Survival Game Backend Server\bin\Debug\netcoreapp3.1\Survival Game Backend Server.runtimeconfig.json
+C:\Users\cornd\source\repos\Survival Game Backend Server\Survival Game Backend Server\bin\Debug\netcoreapp3.1\Survival Game Backend Server.runtimeconfig.dev.json
+C:\Users\cornd\source\repos\Survival Game Backend Server\Survival Game Backend Server\bin\Debug\netcoreapp3.1\Survival Game Backend Server.dll
+C:\Users\cornd\source\repos\Survival Game Backend Server\Survival Game Backend Server\bin\Debug\netcoreapp3.1\Survival Game Backend Server.pdb
+C:\Users\cornd\source\repos\Survival Game Backend Server\Survival Game Backend Server\obj\Debug\netcoreapp3.1\Survival Game Backend Server.dll
+C:\Users\cornd\source\repos\Survival Game Backend Server\Survival Game Backend Server\obj\Debug\netcoreapp3.1\Survival Game Backend Server.pdb
+C:\Users\cornd\source\repos\Survival Game Backend Server\Survival Game Backend Server\obj\Debug\netcoreapp3.1\Survival Game Backend Server.genruntimeconfig.cache
