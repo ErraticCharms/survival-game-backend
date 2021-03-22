@@ -1,0 +1,13 @@
+C:\Users\cornd\Documents\GitHub\survival-game-backend\Survival Game Backend Server\Survival Game Backend Server\bin\Release\netcoreapp3.1\Survival Game Backend Server.exe
+C:\Users\cornd\Documents\GitHub\survival-game-backend\Survival Game Backend Server\Survival Game Backend Server\bin\Release\netcoreapp3.1\Survival Game Backend Server.deps.json
+C:\Users\cornd\Documents\GitHub\survival-game-backend\Survival Game Backend Server\Survival Game Backend Server\bin\Release\netcoreapp3.1\Survival Game Backend Server.runtimeconfig.json
+C:\Users\cornd\Documents\GitHub\survival-game-backend\Survival Game Backend Server\Survival Game Backend Server\bin\Release\netcoreapp3.1\Survival Game Backend Server.runtimeconfig.dev.json
+C:\Users\cornd\Documents\GitHub\survival-game-backend\Survival Game Backend Server\Survival Game Backend Server\bin\Release\netcoreapp3.1\Survival Game Backend Server.dll
+C:\Users\cornd\Documents\GitHub\survival-game-backend\Survival Game Backend Server\Survival Game Backend Server\bin\Release\netcoreapp3.1\Survival Game Backend Server.pdb
+C:\Users\cornd\Documents\GitHub\survival-game-backend\Survival Game Backend Server\Survival Game Backend Server\obj\Release\netcoreapp3.1\Survival Game Backend Server.csprojAssemblyReference.cache
+C:\Users\cornd\Documents\GitHub\survival-game-backend\Survival Game Backend Server\Survival Game Backend Server\obj\Release\netcoreapp3.1\Survival Game Backend Server.AssemblyInfoInputs.cache
+C:\Users\cornd\Documents\GitHub\survival-game-backend\Survival Game Backend Server\Survival Game Backend Server\obj\Release\netcoreapp3.1\Survival Game Backend Server.AssemblyInfo.cs
+C:\Users\cornd\Documents\GitHub\survival-game-backend\Survival Game Backend Server\Survival Game Backend Server\obj\Release\netcoreapp3.1\Survival Game Backend Server.csproj.CoreCompileInputs.cache
+C:\Users\cornd\Documents\GitHub\survival-game-backend\Survival Game Backend Server\Survival Game Backend Server\obj\Release\netcoreapp3.1\Survival Game Backend Server.dll
+C:\Users\cornd\Documents\GitHub\survival-game-backend\Survival Game Backend Server\Survival Game Backend Server\obj\Release\netcoreapp3.1\Survival Game Backend Server.pdb
+C:\Users\cornd\Documents\GitHub\survival-game-backend\Survival Game Backend Server\Survival Game Backend Server\obj\Release\netcoreapp3.1\Survival Game Backend Server.genruntimeconfig.cache

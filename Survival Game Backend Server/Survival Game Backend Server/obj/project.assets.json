@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cornd\\Documents\\GitHub\\survival-game-backend\\Survival Game Backend Server\\Survival Game Backend Server\\SurvivalGameBackendServer.csproj",
-      "projectName": "SurvivalGameBackendServer",
-      "projectPath": "C:\\Users\\cornd\\Documents\\GitHub\\survival-game-backend\\Survival Game Backend Server\\Survival Game Backend Server\\SurvivalGameBackendServer.csproj",
+      "projectUniqueName": "C:\\Users\\cornd\\Documents\\GitHub\\survival-game-backend\\Survival Game Backend Server\\Survival Game Backend Server\\Survival Game Backend Server.csproj",
+      "projectName": "Survival Game Backend Server",
+      "projectPath": "C:\\Users\\cornd\\Documents\\GitHub\\survival-game-backend\\Survival Game Backend Server\\Survival Game Backend Server\\Survival Game Backend Server.csproj",
       "packagesPath": "C:\\Users\\cornd\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\cornd\\Documents\\GitHub\\survival-game-backend\\Survival Game Backend Server\\Survival Game Backend Server\\obj\\",
       "projectStyle": "PackageReference",
