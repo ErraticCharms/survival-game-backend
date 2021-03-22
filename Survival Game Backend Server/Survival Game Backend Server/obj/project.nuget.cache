@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r2en4ttnILIPg/7K9ujn9fWKob2XQxqJrziuK0epMWrK3XlG+G76SZvPTxVbczmeiLOizz4cNlP6gOmQkKOpsw==",
+  "dgSpecHash": "A3VRnMRltqcn1JFWRqFZPmHx8ONbY0aEHp7FfC9EoRBphQ4IEJyKQYZzFvKPpJBN5y29E7b7y8jco2sWXtYNMg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cornd\\Documents\\GitHub\\survival-game-backend\\Survival Game Backend Server\\Survival Game Backend Server\\Survival Game Backend Server.csproj",
+  "projectFilePath": "C:\\Users\\cornd\\Documents\\GitHub\\survival-game-backend\\Survival Game Backend Server\\Survival Game Backend Server\\SurvivalGameBackendServer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
