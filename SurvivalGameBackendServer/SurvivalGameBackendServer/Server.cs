@@ -24,8 +24,6 @@ namespace Survival_Game_Backend_Server
             serverUdp = new UdpClient(63902);
 
             serverUdp.BeginReceive(UDPReceiveCallback, null);
-
-            Console.WriteLine("Began receive");
         }
 
         static void UDPReceiveCallback(IAsyncResult result)
