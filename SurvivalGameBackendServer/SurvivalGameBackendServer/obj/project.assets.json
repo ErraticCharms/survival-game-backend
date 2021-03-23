@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cornd\\Documents\\GitHub\\survival-game-backend\\Survival Game Backend Server\\Survival Game Backend Server\\SurvivalGameBackendServer.csproj",
+      "projectUniqueName": "C:\\Users\\cornd\\Documents\\GitHub\\survival-game-backend\\SurvivalGameBackendServer\\SurvivalGameBackendServer\\SurvivalGameBackendServer.csproj",
       "projectName": "SurvivalGameBackendServer",
-      "projectPath": "C:\\Users\\cornd\\Documents\\GitHub\\survival-game-backend\\Survival Game Backend Server\\Survival Game Backend Server\\SurvivalGameBackendServer.csproj",
+      "projectPath": "C:\\Users\\cornd\\Documents\\GitHub\\survival-game-backend\\SurvivalGameBackendServer\\SurvivalGameBackendServer\\SurvivalGameBackendServer.csproj",
       "packagesPath": "C:\\Users\\cornd\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cornd\\Documents\\GitHub\\survival-game-backend\\Survival Game Backend Server\\Survival Game Backend Server\\obj\\",
+      "outputPath": "C:\\Users\\cornd\\Documents\\GitHub\\survival-game-backend\\SurvivalGameBackendServer\\SurvivalGameBackendServer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cornd\\AppData\\Roaming\\NuGet\\NuGet.Config",
