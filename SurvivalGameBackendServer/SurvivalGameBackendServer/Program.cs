@@ -7,17 +7,9 @@ namespace Survival_Game_Backend_Server
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello world!");
+            
             Server.Start();
-
-            Thread mainThread = new Thread(new ThreadStart(MainThread));
-        }
-
-        static void MainThread()
-        {
-            while(true)
-            {
-                Thread.Sleep(100);
-            }
         }
     }
 }
