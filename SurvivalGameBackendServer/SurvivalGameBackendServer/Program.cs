@@ -7,6 +7,8 @@ namespace Survival_Game_Backend_Server
         static void Main(string[] args)
         {
             Server.Start();
+
+            Console.Read();
         }
     }
 }
