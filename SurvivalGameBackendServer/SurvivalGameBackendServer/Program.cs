@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading;
 
 namespace Survival_Game_Backend_Server
 {
@@ -8,7 +9,15 @@ namespace Survival_Game_Backend_Server
         {
             Server.Start();
 
-            Console.Read();
+            Thread mainThread = new Thread(new ThreadStart(MainThread));
+        }
+
+        static void MainThread()
+        {
+            while(true)
+            {
+                Thread.Sleep(100);
+            }
         }
     }
 }
