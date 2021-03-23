@@ -7,9 +7,8 @@ namespace Survival_Game_Backend_Server
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello world!");
-            
             Server.Start();
         }
     }
 }
+ 
